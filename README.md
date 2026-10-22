@@ -1,16 +1,31 @@
-## Hi there 👋
+# Georgiy Glorio
 
-<!--
-**smoke-user/smoke-user** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/agent engineer. I measure whether the agent works.
 
-Here are some ideas to get you started:
+Tashkent · remote · part-time contracts
+georgeglorio@gmail.com · Telegram [@SMOkeUser](https://t.me/SMOkeUser)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proof I lead with
+
+I published that my own ranking score was inverted: AUC 0.326.
+Bottom quartile 15.9% multiples vs 1.9% at the top.
+Time-split, honest costs, profit after costs not confirmed.
+
+→ [How I found my product ranked backwards](https://gist.github.com/smoke-user/6045168ac12bbd5e3b8ebf4aaf55e1de)
+
+## What I actually do
+
+- Self-hosted MCP knowledge server with shared memory across machines
+- Evals on agent quality, not logs
+- Scheduled autonomous agents with self-heal
+- Live on-chain product: [hoodflow.xyz](https://hoodflow.xyz)
+
+## Sold to my employer
+
+Media-plan generator · AutoOML · Splitchoiser
+
+## Also
+
+AI500! Hackathon finalist, solo, Dec 2025 — 50 of 1,345 teams.
+
+Public repos here are a slice, not the harness. The knowledge server holds private memory.
